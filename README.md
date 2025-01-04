@@ -1,4 +1,4 @@
-# Collab-AI-Foundation SIP Gateway (gateway)
+# Collaboro-AI-Foundation SIP Gateway (gateway)
 
 **License:** Apache License 2.0 (see LICENSE file for details)
 
